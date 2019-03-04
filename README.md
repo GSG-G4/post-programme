@@ -75,6 +75,7 @@
 * [db-recipe-book](https://github.com/LambdaSchool/db-recipe-book)
 * [RDBMS-API-Full](https://github.com/LambdaSchool/RDBMS-API-Full)
 * [Sprint-Challenge-RDBMS](https://github.com/LambdaSchool/Sprint-Challenge-RDBMS)
+* [Sprint-Challenge--SQL](https://github.com/LambdaSchool/Sprint-Challenge--SQL)
 
 ### Authentication
 * [Mini project for Authentication Sprint](https://github.com/LambdaSchool/auth-i-guided)
