@@ -1,4 +1,5 @@
 # post-programme
+### this curriculum from [lamdbashool](https://learn.lambdaschool.com/course/cs-fsw)
 
 ### Introduction to User Interface and Git
 * [User-Interface](https://github.com/LambdaSchool/User-Interface)
