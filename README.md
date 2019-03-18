@@ -56,7 +56,11 @@
   * passport
   * session
 * Outcomes
-  * **loading**
+  * understanding event loop.
+  * basic Worker Threads and Clustering.
+  * Scalable file uploading.
+  * Speed up database queries by Redis.
+  * Automated browser testing in node.
 * Resource
   * [advanced-node](https://www.udemy.com/advanced-node-for-developers/)
 * Challenges
