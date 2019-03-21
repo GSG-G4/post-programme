@@ -1,127 +1,139 @@
 # post-programme
 
+### Timeline
+| Time | Topic |
+|---|---|
+| week 1 | advanced css |
+| week 2 | javascript fundamentals |
+| week 3 --> 8 | react & redux |
+| week 9 | front-end-project-week |
+| week 10 --> 11 | advanced-node |
+| week 12 --> 13 | database |
+| week 14 --> 15 | mongodb |
+| week 16 --> 17 | Authentication |
+| week 18 --> 20 | GraphQL API |
+| week 21 --> 22 | Websocket |
+| week 23 | Testing |
+| week 24 | Back-end-project-week |
+
+
 ### Advanced CSS
+* time
+  * one week
 * Resource
-  * [CSS Secrets: Better Solutions to Everyday Web Design Problems](http://gen.lib.rus.ec/book/index.php?md5=CFF5C918B036D674536151C932BE5599) (we should choose chapters from the book)
-  * Css fundamentals (No resource yet) 
-  * Preprocessing (No resource yet)
+  * [advanced-css-and-sass](https://www.udemy.com/advanced-css-and-sass/)
 * Challenges
-  * [Preprocessing-I](https://github.com/LambdaSchool/Preprocessing-I)
-  * [Preprocessing-II](https://github.com/LambdaSchool/Preprocessing-II)
   * [Sprint-Challenge--Advanced-CSS](https://github.com/LambdaSchool/Sprint-Challenge--Advanced-CSS)
 
 ### JavaScript Fundamentals
+* time
+  * one week
 * Resource
-  * YDJS BOOK (2,3,4,5)
+  * YDJS (this & Object Prototypes)
+  * the rest of chapters are optional
 * Challenges
-  * [JavaScript-I](https://github.com/LambdaSchool/JavaScript-I)
-  * [JavaScript-II](https://github.com/LambdaSchool/JavaScript-II)
-  * [JavaScript-III](https://github.com/LambdaSchool/JavaScript-III)
-  * [JavaScript-IV](https://github.com/LambdaSchool/JavaScript-IV)
   * [Sprint-Challenge--JavaScript](LambdaSchool/Sprint-Challenge--JavaScript)
 
 ### React && Redux
+* time
+  * five weeks
 * Resource
-    * [React & Redux](https://www.udemy.com/react-redux/)
-    * [Advance React](https://www.udemy.com/react-redux-tutorial/)
+  * [React & Redux](https://www.udemy.com/react-redux/)
+  * [Advance React](https://www.udemy.com/react-redux-tutorial/)
+* notes
+  * every week have Sprint-challenge
 * Challenges
-    * #### React
-      * [React-UI-Components](https://github.com/LambdaSchool/React-UI-Components)
-      * [React-Todo](https://github.com/LambdaSchool/React-Todo)
-      * [Sprint-Challenge-React-Wars](https://github.com/LambdaSchool/Sprint-Challenge-React-Wars)
-      ```https://github.com/LambdaSchool/React-Sorting-Hat```
-    * #### Intermediate React
-      * [React-Insta-Clone](https://github.com/LambdaSchool/React-Insta-Clone)
-      * [Sprint-Challenge-Lambda-Times-React](https://github.com/LambdaSchool/Sprint-Challenge-Lambda-Times-React)
-    * #### Single Page Applications
-      * [React-Router-Basic-Nav](https://github.com/LambdaSchool/React-Router-Basic-Nav)
-      * [React-Router-Movies](https://github.com/LambdaSchool/React-Router-Movies)
-      * [HTTP-AJAX](https://github.com/LambdaSchool/HTTP-AJAX)
-      * [React-Router-Movies](https://github.com/LambdaSchool/React-Router-Movies)
-      * [Sprint-Challenge-React-Smurfs](https://github.com/LambdaSchool/Sprint-Challenge-React-Smurfs)
-    * #### Redux 
-      * [Redux-Counter](https://github.com/LambdaSchool/Redux-Counter)
-      * [Redux-Todo](https://github.com/LambdaSchool/Redux-Todo)
-      * [Redux-Friends](https://github.com/LambdaSchool/Redux-Friends)
-      * [Redux-Swapi](https://github.com/LambdaSchool/Redux-Swapi)
-      * [webapi-hubs](https://github.com/LambdaSchool/webapi-hubs)
-      * [Sprint-Challenge-Redux-Smurfs](https://github.com/LambdaSchool/Sprint-Challenge-Redux-Smurfs)
-
+  * [Sprint-Challenge-React-Wars](https://github.com/LambdaSchool/Sprint-Challenge-React-Wars)
+  * [Sprint-Challenge-Lambda-
+  
+  s-React](https://github.com/LambdaSchool/Sprint-Challenge-Lambda-Times-React)
+  * [Sprint-Challenge-React-Smurfs](https://github.com/LambdaSchool/Sprint-Challenge-React-Smurfs)
+  * [Sprint-Challenge-Redux-Smurfs](https://github.com/LambdaSchool/Sprint-Challenge-Redux-Smurfs)
+* more challenges
+  * [React-UI-Components](https://github.com/LambdaSchool/React-UI-Components)
+  * [React-Todo](https://github.com/LambdaSchool/React-Todo)
+  * [React-Sorting-Hat](https://github.com/LambdaSchool/React-Sorting-Hat)
+  * [React-Insta-Clone](https://github.com/LambdaSchool/React-Insta-Clone)
+  * [React-Router-Basic-Nav](https://github.com/LambdaSchool/React-Router-Basic-Nav)
+  * [React-Router-Movies](https://github.com/LambdaSchool/React-Router-Movies)
+  * [HTTP-AJAX](https://github.com/LambdaSchool/HTTP-AJAX)
+  * [React-Router-Movies](https://github.com/LambdaSchool/React-Router-Movies)
+  * [Redux-Counter](https://github.com/LambdaSchool/Redux-Counter)
+  * [Redux-Todo](https://github.com/LambdaSchool/Redux-Todo)
+  * [Redux-Friends](https://github.com/LambdaSchool/Redux-Friends)
+  * [Redux-Swapi](https://github.com/LambdaSchool/Redux-Swapi)
+  * [webapi-hubs](https://github.com/LambdaSchool/webapi-hubs)
+      
 ### front-end-project-week
 * mvp project called [Lambda Notes](https://github.com/LambdaSchool/front-end-project-week)
 
 ### Building RESTful Web APIs with Express and Node.js (server-side)
-* prerequisite
-  * basic mongodb
-  * passport
-  * session
-* Outcomes
-  * understanding event loop.
-  * basic Worker Threads and Clustering.
-  * Scalable file uploading.
-  * Speed up database queries by Redis.
-  * Automated browser testing in node.
+* Time
+  * Two weeks
+* note
+  * every week have Sprint-challenge
 * Resource
   * [advanced-node](https://www.udemy.com/advanced-node-for-developers/)
 * Challenges
-  * [Node-Express-Lab](https://github.com/LambdaSchool/Node-Express-Lab)
-  * [node-express-mini](https://github.com/LambdaSchool/node-express-mini)
   * [Node-Blog](https://github.com/LambdaSchool/Node-Blog)
   * [Sprint-Challenge-Node-Express](https://github.com/LambdaSchool/Sprint-Challenge-Node-Express)
 
 ### Adding Data Persistence to Web APIs (database)
-* outcomes
-  * Mongodb
-  * Database modling
-  * SQL Language
+* Time
+  * Two weeks
 * Resource
-  * [database desgin](https://www.youtube.com/playlist?list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g&pbjreload=10)
-  * [Relational Design Theory](https://lagunita.stanford.edu/courses/DB/RD/SelfPaced/course/) Stanford
+  * [relational-database-design](https://www.pluralsight.com/courses/relational-database-design)
 * challenges
+  * [Sprint-Challenge-RDBMS](https://github.com/LambdaSchool/Sprint-Challenge-RDBMS)
+  * [Sprint-Challenge--SQL](https://github.com/LambdaSchool/Sprint-Challenge--SQL)
+* optional challenges
   * [Relational-Databases](https://github.com/LambdaSchool/Relational-Databases)
   * [SQL](https://github.com/LambdaSchool/SQL)
   * [sql-lab](https://github.com/LambdaSchool/sql-lab)
   * [db-zoos](https://github.com/LambdaSchool/db-zoos)
   * [db-recipe-book](https://github.com/LambdaSchool/db-recipe-book)
   * [RDBMS-API-Full](https://github.com/LambdaSchool/RDBMS-API-Full)
-  * [Sprint-Challenge-RDBMS](https://github.com/LambdaSchool/Sprint-Challenge-RDBMS)
-  * [Sprint-Challenge--SQL](https://github.com/LambdaSchool/Sprint-Challenge--SQL)
 
 ### mongodb
-* outcomes
-  * you should learn mongodb
+* Time
+  * Two weeks
 * Resource
   * [mongodb the complete developers guide](https://www.udemy.com/mongodb-the-complete-developers-guide/)
 * challenges
-  * no challenge yet
+  * [Sprint-Challenge--SQL](https://github.com/LambdaSchool/Sprint-Challenge--SQL)
 
 ### Authentication
-* outcomes
-  * authentication
+* Time
+  * Two weeks
 * Resource
-  * no challenge yet
+  * [oauth-2-getting-started](https://www.pluralsight.com/courses/oauth-2-getting-started)
 * challenges
   * [Mini project for Authentication Sprint](https://github.com/LambdaSchool/auth-i-guided)
   * [auth-i](https://github.com/LambdaSchool/auth-i)
   * [auth-ii](https://github.com/LambdaSchool/auth-ii)
   * [auth-iii](https://github.com/LambdaSchool/auth-iii)
   * [Sprint-Challenge-Authentication](https://github.com/LambdaSchool/Sprint-Challenge-Authentication)
-  
+
 ### GraphQL API
-* outcomes
+* Time
+  * Two weeks
 * Resource
+  * [getting-started-github-graphql-api](https://www.robinwieruch.de/getting-started-github-graphql-api/)
 * challenges
+  * convert a previous project into graphql
+  
 ### Websocket
+* Time
+  * Two weeks
 * Resource
-  * not yet
+  * [html-websocket](http://lib1.org/_ads/AFA79DC63045822F2AACFD0C41CF61D2) first two chapters
+  * [socketio-with-websockets-the-details](https://www.udemy.com/socketio-with-websockets-the-details/)
 * Challenges
-  * Chat app (there is no prject yet)
+  * Chat app
 
 ### Testing
-* outcomes
-  * practice testing
-* Resource
-  * No need for resource
+* Time
+  * one week
 * challenges
   * [Testing](https://github.com/LambdaSchool/Testing)
   * [React-Testing](https://github.com/LambdaSchool/React-Testing)
