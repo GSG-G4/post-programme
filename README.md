@@ -15,6 +15,8 @@
 | week 21 --> 22 | Websocket |
 | week 23 | Testing |
 | week 24 | Back-end-project-week |
+| week 25 --> 28 | Advance Web Technology Concepts |
+| week 29 | Final Project |
 
 
 ### Advanced CSS
@@ -142,6 +144,15 @@
 
 ### Back-end-project-week
 * [back-end-project-week](https://github.com/LambdaSchool/back-end-project-week)
+
+### Advance Web Technology Concepts
+* Time
+  * Four weeks
+* Resource
+  * [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/)
+
+### Final Project
+* TBD
 
 # Computer Science
 
