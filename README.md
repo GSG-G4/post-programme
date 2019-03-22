@@ -21,8 +21,8 @@
 
 ---
 ### Advanced CSS
-* time
-  * one week
+* Time
+  * One week
 * Resource
   * [advanced-css-and-sass](https://www.udemy.com/advanced-css-and-sass/)
 * Challenges
@@ -30,8 +30,8 @@
 
 ----
 ### JavaScript Fundamentals
-* time
-  * one week
+* Time
+  * One week
 * Resource
   * YDJS (this & Object Prototypes)
   * the rest of chapters are optional
@@ -39,21 +39,19 @@
   * [Sprint-Challenge--JavaScript](LambdaSchool/Sprint-Challenge--JavaScript)
 ---
 ### React && Redux
-* time
-  * five weeks
+* Time
+  * Five weeks
 * Resource
   * [React & Redux](https://www.udemy.com/react-redux/)
   * [Advance React](https://www.udemy.com/react-redux-tutorial/)
-* notes
+* Notes
   * every week have Sprint-challenge
 * Challenges
   * [Sprint-Challenge-React-Wars](https://github.com/LambdaSchool/Sprint-Challenge-React-Wars)
-  * [Sprint-Challenge-Lambda-
-  
-  s-React](https://github.com/LambdaSchool/Sprint-Challenge-Lambda-Times-React)
+  * [Sprint-Challenge-Lambda-Times-React](https://github.com/LambdaSchool/Sprint-Challenge-Lambda-Times-React)
   * [Sprint-Challenge-React-Smurfs](https://github.com/LambdaSchool/Sprint-Challenge-React-Smurfs)
   * [Sprint-Challenge-Redux-Smurfs](https://github.com/LambdaSchool/Sprint-Challenge-Redux-Smurfs)
-* more challenges
+* More challenges
   * [React-UI-Components](https://github.com/LambdaSchool/React-UI-Components)
   * [React-Todo](https://github.com/LambdaSchool/React-Todo)
   * [React-Sorting-Hat](https://github.com/LambdaSchool/React-Sorting-Hat)
@@ -68,13 +66,13 @@
   * [Redux-Swapi](https://github.com/LambdaSchool/Redux-Swapi)
   * [webapi-hubs](https://github.com/LambdaSchool/webapi-hubs)
 ---      
-### front-end-project-week
+### Front-end-project-week
 * mvp project called [Lambda Notes](https://github.com/LambdaSchool/front-end-project-week)
 ---
 ### Building RESTful Web APIs with Express and Node.js (server-side)
 * Time
   * Two weeks
-* note
+* Note
   * every week have Sprint-challenge
 * Resource
   * [advanced-node](https://www.udemy.com/advanced-node-for-developers/)
@@ -87,7 +85,7 @@
   * Two weeks
 * Resource
   * [relational-database-design](https://www.pluralsight.com/courses/relational-database-design)
-* challenges
+* Challenges
   * [Sprint-Challenge-RDBMS](https://github.com/LambdaSchool/Sprint-Challenge-RDBMS)
   * [Sprint-Challenge--SQL](https://github.com/LambdaSchool/Sprint-Challenge--SQL)
 * optional challenges
@@ -137,7 +135,7 @@
 ---
 ### Testing
 * Time
-  * one week
+  * One week
 * challenges
   * [Testing](https://github.com/LambdaSchool/Testing)
   * [React-Testing](https://github.com/LambdaSchool/React-Testing)
