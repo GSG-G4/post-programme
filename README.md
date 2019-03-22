@@ -1,6 +1,7 @@
 # post-programme
 
 ### Timeline
+### - First Phase
 | Time | Topic |
 |---|---|
 | week 1 | [Advanced CSS](https://github.com/GSG-G4/post-programme#advanced-css) |
@@ -157,21 +158,33 @@
 ---
 # Computer Science
 
-### Intro to Python/OOP
-* Outcomes
-  * learn python language
-  * learn oop
-* Resource
-  * No need for resource
-* Challenges
-  * [Intro-Python-I](https://github.com/LambdaSchool/Intro-Python-I)
-  * [Intro-Python-II](https://github.com/LambdaSchool/Intro-Python-II)
-  * [Sprint-Challenge--Intro-Python](https://github.com/LambdaSchool/Sprint-Challenge--Intro-Python)
+### Introduction to Computer Science
+```
+1- Introduction to Computer Science Programming in Python
+2- Introduction to Computational Thinking and Data Science    
+3- Mathematics for Computer Science    
+4- Introduction to Algorithms  
 
-### Algorithms
-* [Sorting](https://github.com/LambdaSchool/Sorting)
-* [Algorithms](https://github.com/LambdaSchool/Algorithms)
-* [Sprint-Challenge--Algorithms](https://github.com/LambdaSchool/Sprint-Challenge--Algorithms)
+notes: 
+* 1+2 = as part 1&2 in CS intro in MIT 
+* 4 = depends in 1+2+3  
+```
+* Time >>> TBD
+
+### Introduction to Computer Science Programming in Python
+*  [Introduction to Computer Science and Programming Using Python by MIT - Python 3.5](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2)  by enrolling in it and finish it with all quizzes and tasks , so if anyone liked certificate cloud pay for it. 
+* Same course above but fully on youtube  without anything [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) and course full page in MIT [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+
+### Introduction to Computational Thinking and Data Science 
+*  [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-science-2)  by enrolling in it and finish it with all quizzes and tasks , so if anyone liked certificate cloud pay for it. 
+* Same course above but fully on youtube  without anything [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd) and course full page in MIT [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+
+### Mathematics for Computer Science 
+* [Mathematics for Computer Science page in MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) and course in youtube [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)  19h
+
+### Introduction to Algorithms
+* [Introduction to Algorithms page in MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) and course in youtube [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) 
+* This course is part of a three-course sequence. The second course is [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) and the third is [Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
 
 ### Data Structures
 * [Data-Structures](https://github.com/LambdaSchool/Data-Structures)
