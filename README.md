@@ -18,7 +18,7 @@
 | week 25 --> 28 | [Advance Web Technology Concepts](https://github.com/GSG-G4/post-programme#advance-web-technology-concepts) |
 | week 29 | [Final Project](https://github.com/GSG-G4/post-programme#final-project) |
 
-
+---
 ### Advanced CSS
 * time
   * one week
@@ -27,6 +27,7 @@
 * Challenges
   * [Sprint-Challenge--Advanced-CSS](https://github.com/LambdaSchool/Sprint-Challenge--Advanced-CSS)
 
+----
 ### JavaScript Fundamentals
 * time
   * one week
@@ -35,7 +36,7 @@
   * the rest of chapters are optional
 * Challenges
   * [Sprint-Challenge--JavaScript](LambdaSchool/Sprint-Challenge--JavaScript)
-
+---
 ### React && Redux
 * time
   * five weeks
@@ -65,10 +66,10 @@
   * [Redux-Friends](https://github.com/LambdaSchool/Redux-Friends)
   * [Redux-Swapi](https://github.com/LambdaSchool/Redux-Swapi)
   * [webapi-hubs](https://github.com/LambdaSchool/webapi-hubs)
-      
+---      
 ### front-end-project-week
 * mvp project called [Lambda Notes](https://github.com/LambdaSchool/front-end-project-week)
-
+---
 ### Building RESTful Web APIs with Express and Node.js (server-side)
 * Time
   * Two weeks
@@ -79,7 +80,7 @@
 * Challenges
   * [Node-Blog](https://github.com/LambdaSchool/Node-Blog)
   * [Sprint-Challenge-Node-Express](https://github.com/LambdaSchool/Sprint-Challenge-Node-Express)
-
+---
 ### Adding Data Persistence to Web APIs (database)
 * Time
   * Two weeks
@@ -95,7 +96,7 @@
   * [db-zoos](https://github.com/LambdaSchool/db-zoos)
   * [db-recipe-book](https://github.com/LambdaSchool/db-recipe-book)
   * [RDBMS-API-Full](https://github.com/LambdaSchool/RDBMS-API-Full)
-
+---
 ### mongodb
 * Time
   * Two weeks
@@ -103,7 +104,7 @@
   * [mongodb the complete developers guide](https://www.udemy.com/mongodb-the-complete-developers-guide/)
 * challenges
   * [Sprint-Challenge--SQL](https://github.com/LambdaSchool/Sprint-Challenge--SQL)
-
+---
 ### Authentication
 * Time
   * Two weeks
@@ -115,7 +116,7 @@
   * [auth-ii](https://github.com/LambdaSchool/auth-ii)
   * [auth-iii](https://github.com/LambdaSchool/auth-iii)
   * [Sprint-Challenge-Authentication](https://github.com/LambdaSchool/Sprint-Challenge-Authentication)
-
+---
 ### GraphQL API
 * Time
   * Two weeks
@@ -123,7 +124,7 @@
   * [getting-started-github-graphql-api](https://www.robinwieruch.de/getting-started-github-graphql-api/)
 * challenges
   * convert a previous project into graphql
-  
+---  
 ### Websocket
 * Time
   * Two weeks
@@ -132,7 +133,7 @@
   * [socketio-with-websockets-the-details](https://www.udemy.com/socketio-with-websockets-the-details/)
 * Challenges
   * Chat app
-
+---
 ### Testing
 * Time
   * one week
@@ -141,19 +142,19 @@
   * [React-Testing](https://github.com/LambdaSchool/React-Testing)
   * [Server-Testing](https://github.com/LambdaSchool/Server-Testing)
   * [Sprint-Challenge--Testing](https://github.com/LambdaSchool/Sprint-Challenge--Testing)
-
+---
 ### Back-end-project-week
 * [back-end-project-week](https://github.com/LambdaSchool/back-end-project-week)
-
+---
 ### Advance Web Technology Concepts
 * Time
   * Four weeks
 * Resource
   * [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/)
-
+---
 ### Final Project
 * TBD
-
+---
 # Computer Science
 
 ### Intro to Python/OOP
