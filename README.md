@@ -120,7 +120,7 @@
 ---
 ### GraphQL API
 * Time
-  * Two weeks
+  * Three weeks
 * Resource
   * [getting-started-github-graphql-api](https://www.robinwieruch.de/getting-started-github-graphql-api/)
 * challenges
