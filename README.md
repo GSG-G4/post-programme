@@ -164,8 +164,8 @@
 4- Introduction to Algorithms  
 
 notes: 
-* 1+2 = as part 1&2 in CS intro in MIT 
-* 4 = depends in 1+2+3  
+* 1+2 are part 1&2 in CS intro in MIT 
+* 4 depends on 1+2+3  
 ```
 * Time >>> TBD
 
