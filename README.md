@@ -6,17 +6,17 @@
 |---|---|
 | week 1 | [Advanced CSS](https://github.com/GSG-G4/post-programme#advanced-css) |
 | week 2 | [JavaScript Fundamentals](https://github.com/GSG-G4/post-programme#javascript-fundamentals) |
-| week 3 --> 8 | [React && Redux](https://github.com/GSG-G4/post-programme#react--redux) |
+| week 3 --> 8 | [React & Redux](https://github.com/GSG-G4/post-programme#react--redux) |
 | week 9 | [Front-End Project Week](https://github.com/GSG-G4/post-programme#front-end-project-week) |
 | week 10 --> 11 | [Advanced Node](https://github.com/GSG-G4/post-programme#building-restful-web-apis-with-express-and-nodejs-server-side) |
 | week 12 --> 13 | [Database](https://github.com/GSG-G4/post-programme#adding-data-persistence-to-web-apis-database) |
 | week 14 --> 15 | [mongodb](https://github.com/GSG-G4/post-programme#mongodb) |
 | week 16 --> 17 | [Authentication](https://github.com/GSG-G4/post-programme#authentication) |
 | week 18 --> 20 | [GraphQL API](https://github.com/GSG-G4/post-programme#graphql-api) |
-| week 21 --> 22 | [Websocket](https://github.com/GSG-G4/post-programme#websocket) |
+| week 21 --> 22 | [Websockets](https://github.com/GSG-G4/post-programme#websocket) |
 | week 23 | [Testing](https://github.com/GSG-G4/post-programme#testing) |
 | week 24 | [Back-End Project Week](https://github.com/GSG-G4/post-programme#back-end-project-week) |
-| week 25 --> 28 | [Advance Web Technology Concepts](https://github.com/GSG-G4/post-programme#advance-web-technology-concepts) |
+| week 25 --> 28 | [Advanced Web Technology Concepts](https://github.com/GSG-G4/post-programme#advance-web-technology-concepts) |
 | week 29 | [Final Project](https://github.com/GSG-G4/post-programme#final-project) |
 
 ---
@@ -34,7 +34,7 @@
   * One week
 * Resource
   * YDJS (this & Object Prototypes)
-  * the rest of chapters are optional
+  * the rest of the chapters are optional
 * Challenges
   * [Sprint-Challenge--JavaScript](LambdaSchool/Sprint-Challenge--JavaScript)
 ---
@@ -43,15 +43,15 @@
   * Five weeks
 * Resource
   * [React & Redux](https://www.udemy.com/react-redux/)
-  * [Advance React](https://www.udemy.com/react-redux-tutorial/)
+  * [Advanced React](https://www.udemy.com/react-redux-tutorial/)
 * Notes
-  * every week have Sprint-challenge
+  * every week has a sprint challenge
 * Challenges
   * [Sprint-Challenge-React-Wars](https://github.com/LambdaSchool/Sprint-Challenge-React-Wars)
   * [Sprint-Challenge-Lambda-Times-React](https://github.com/LambdaSchool/Sprint-Challenge-Lambda-Times-React)
   * [Sprint-Challenge-React-Smurfs](https://github.com/LambdaSchool/Sprint-Challenge-React-Smurfs)
   * [Sprint-Challenge-Redux-Smurfs](https://github.com/LambdaSchool/Sprint-Challenge-Redux-Smurfs)
-* More challenges
+* More challenges (optional)
   * [React-UI-Components](https://github.com/LambdaSchool/React-UI-Components)
   * [React-Todo](https://github.com/LambdaSchool/React-Todo)
   * [React-Sorting-Hat](https://github.com/LambdaSchool/React-Sorting-Hat)
@@ -73,7 +73,7 @@
 * Time
   * Two weeks
 * Note
-  * every week have Sprint-challenge
+  * every week has a sprint challenge
 * Resource
   * [advanced-node](https://www.udemy.com/advanced-node-for-developers/)
 * Challenges
@@ -100,7 +100,7 @@
 * Time
   * Two weeks
 * Resource
-  * [mongodb the complete developers guide](https://www.udemy.com/mongodb-the-complete-developers-guide/)
+  * [mongodb: the complete developers guide](https://www.udemy.com/mongodb-the-complete-developers-guide/)
 * challenges
   * [Sprint-Challenge--SQL](https://github.com/LambdaSchool/Sprint-Challenge--SQL)
 ---
@@ -170,18 +170,18 @@ notes:
 * Time >>> TBD
 
 ### Introduction to Computer Science Programming in Python
-*  [Introduction to Computer Science and Programming Using Python by MIT - Python 3.5](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2)  by enrolling in it and finish it with all quizzes and tasks , so if anyone liked certificate cloud pay for it. 
-* Same course above but fully on youtube  without anything [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) and course full page in MIT [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+*  [Introduction to Computer Science and Programming Using Python by MIT - Python 3.5](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2)  Enroll in and complete this course. There's a fee if you wish to obtain a certificate for the course.
+* Same course above but hosted on youtube. This means its self paced but cannot qualify you to obtain a certificate [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) the full course page from MIT can be found [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 ### Introduction to Computational Thinking and Data Science 
-*  [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-science-2)  by enrolling in it and finish it with all quizzes and tasks , so if anyone liked certificate cloud pay for it. 
-* Same course above but fully on youtube  without anything [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd) and course full page in MIT [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+*  An MIT course available on Edx. Same process as the course above. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-science-2) 
+* the course on youtube can be found [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd) and full course page in MIT [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 ### Mathematics for Computer Science 
-* [Mathematics for Computer Science page in MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) and course in youtube [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)  19h
+* [Mathematics for Computer Science page in MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) and course on youtube [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)  19h
 
 ### Introduction to Algorithms
-* [Introduction to Algorithms page in MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) and course in youtube [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) 
+* [Introduction to Algorithms page in MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) and course on youtube [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) 
 * This course is part of a three-course sequence. The second course is [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) and the third is [Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
 
 ### Data Structures
