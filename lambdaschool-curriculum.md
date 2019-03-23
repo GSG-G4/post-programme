@@ -20,7 +20,7 @@
 * [JavaScript-II](https://github.com/LambdaSchool/JavaScript-II)
 * [JavaScript-III](https://github.com/LambdaSchool/JavaScript-III)
 * [JavaScript-IV](https://github.com/LambdaSchool/JavaScript-IV)
-* [Sprint-Challenge--JavaScript](LambdaSchool/Sprint-Challenge--JavaScript)
+* [Sprint-Challenge--JavaScript](https://github.com/LambdaSchool/Sprint-Challenge--JavaScript)
 
 ### Applied JavaScript (DOM)
 * [DOM](https://github.com/LambdaSchool/DOM)
