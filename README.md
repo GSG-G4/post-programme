@@ -47,6 +47,7 @@
 * Notes
   * every week has a sprint challenge
 * Challenges
+  * [React-Insta-Clone](https://github.com/LambdaSchool/React-Insta-Clone)
   * [Sprint-Challenge-React-Wars](https://github.com/LambdaSchool/Sprint-Challenge-React-Wars)
   * [Sprint-Challenge-Lambda-Times-React](https://github.com/LambdaSchool/Sprint-Challenge-Lambda-Times-React)
   * [Sprint-Challenge-React-Smurfs](https://github.com/LambdaSchool/Sprint-Challenge-React-Smurfs)
@@ -55,7 +56,6 @@
   * [React-UI-Components](https://github.com/LambdaSchool/React-UI-Components)
   * [React-Todo](https://github.com/LambdaSchool/React-Todo)
   * [React-Sorting-Hat](https://github.com/LambdaSchool/React-Sorting-Hat)
-  * [React-Insta-Clone](https://github.com/LambdaSchool/React-Insta-Clone)
   * [React-Router-Basic-Nav](https://github.com/LambdaSchool/React-Router-Basic-Nav)
   * [React-Router-Movies](https://github.com/LambdaSchool/React-Router-Movies)
   * [HTTP-AJAX](https://github.com/LambdaSchool/HTTP-AJAX)
